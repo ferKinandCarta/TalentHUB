@@ -203,7 +203,8 @@ perspective: 800;
 }
 
 .fer{
-    background-image: url(https://ca.slack-edge.com/T02SA6VTR-U01P8RB78HK-94e500fe4669-512);
+    background-image: url(./images/fer.jpeg);
+    background-position: center center;
 }
 
 .agus{
